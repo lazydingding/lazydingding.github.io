@@ -25,7 +25,7 @@ He earned a Ph.D in Finance in 2021 from [University of Hong Kong](https://www.h
 Assistant Professor Luping YU
 
 [School of Management](https://sm.xmu.edu.cn/)  
-[Xiamen University]((https://www.xmu.edu.cn/))  
+[Xiamen University](https://www.xmu.edu.cn/)  
 J2-415, Chengfeng Building, Siming Campus  
 Xiamen, Fujian, China  
 Tel: (86) 152-2886-7756  

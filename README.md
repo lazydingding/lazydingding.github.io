@@ -5,11 +5,14 @@ Luping YU is currently an Assistant Professor of Finance at [School of Managemen
 
 He earned a Ph.D in Finance in 2021 from [University of Hong Kong](https://www.hku.hk/). His educational background also includes a M.Sc. in Computer Science from [University of Bristol](https://www.bristol.ac.uk/), a B.E. in Electronic Information Engineering and a B.A. in Finance from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
+
 ### [Curriculum Vitae](https://lazydingding.github.io/cv.pdf)
+
 
 ### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.
     * Featured by [Harvard Law School Forum on Corporate Governance](https://corpgov.law.harvard.edu/2020/12/09/real-effects-of-share-repurchases-legalization-on-corporate-behaviors/)
+
 
 ### Selected Working Papers
 1. **Global Share Repurchase over the Business Cycle**
@@ -20,6 +23,7 @@ He earned a Ph.D in Finance in 2021 from [University of Hong Kong](https://www.h
     * with Zigan Wang, Qi Xu, and Qie Ellie Yin
 4. **The Role of CEO Gender in Firm Pollution:  Environmental Concern, Risk Aversion, and Backlash Avoidance as Mediators**
     * with Sreedhari Desai, Zigan Wang, and Sandy Zhang
+
 
 ### Contact Information
 Assistant Professor Luping YU

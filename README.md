@@ -29,5 +29,5 @@ School of Management, Xiamen University
 J2-415, Chengfeng Building, Siming Campus  
 Xiamen, Fujian, China  
 Tel: (86) 152-2886-7756  
-Email: lupingyu@xmu.edu.cn  
+Email: [lupingyu@xmu.edu.cn](lupingyu@xmu.edu.cn)  
 Personal Website: [www.lupingyu.com](https://lupingyu.com/)

@@ -20,3 +20,14 @@ He earned a Ph.D in Finance in 2021 from [University of Hong Kong](https://www.h
     * with Zigan Wang, Qi Xu, and Qie Ellie Yin
 4. **The Role of CEO Gender in Firm Pollution:  Environmental Concern, Risk Aversion, and Backlash Avoidance as Mediators**
     * with Sreedhari Desai, Zigan Wang, and Sandy Zhang
+
+### Contact Information
+Assistant Professor Luping YU
+
+School of Management
+Xiamen University
+J2-415, Chengfeng Building, Siming Campus
+Xiamen, Fujian, P.R. China
+Tel: (86) 152-2886-7756
+Email: lupingyu@xmu.edu.cn
+Personal Website: https://lupingyu.com/

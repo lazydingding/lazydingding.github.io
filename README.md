@@ -21,7 +21,7 @@ He earned a Ph.D in Finance in 2021 from University of Hong Kong. His educationa
     * with Zigan Wang and Qie Ellie Yin
 3. **Global Leverage Dynamics Under Currency Risk**
     * with Zigan Wang, Qi Xu, and Qie Ellie Yin
-4. **The Role of CEO Gender in Firm Pollution:  Environmental Concern, Risk Aversion, and Backlash Avoidance as Mediators**
+4. **Are Firms with Female CEOs More Environmentally Friendly?**
     * with Sreedhari Desai, Zigan Wang, and Sandy Zhang
 
 ### Contact Information

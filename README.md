@@ -8,6 +8,9 @@ He earned a Ph.D in Finance in 2021 from University of Hong Kong. His educationa
 
 ### [Curriculum Vitae](https://lazydingding.github.io/cv.pdf)
 
+### Teaching
+I am currently <u>teaching Financial Data Analysis with Python</u>. Course materials are available upon request.
+
 
 ### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.

@@ -23,10 +23,11 @@ He earned a Ph.D in Finance in 2021 from University of Hong Kong. His educationa
     * Job market paper
 2. **Global Leverage Dynamics Under Currency Risk**
     * with Zigan Wang, Qi Xu, and Qie Ellie Yin
-3. **Outsourcing ESG Risks: Global Supply Chain Response to Mandatory ESG Disclosure**
-    * with Qilin Peng
-4. **Are Firms with Female CEOs More Environmentally Friendly?**
+3. **Are Firms with Female CEOs More Environmentally Friendly?**
     * with Sreedhari Desai, Zigan Wang, and Sandy Zhang
+4. **Outsourcing ESG Risks: Global Supply Chain Response to Mandatory ESG Disclosure**
+    * with Qilin Peng
+
 
 ### Contact Information
 School of Management, Xiamen University  

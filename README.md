@@ -21,16 +21,14 @@ He earned a Ph.D in Finance in 2021 from University of Hong Kong. His educationa
 ### Selected Working Papers
 1. **Global Share Repurchase over the Business Cycle**
     * Job market paper
-2. **Do Share Repurchases Facilitate Movement Towards Target Capital Structure?**
-    * with Zigan Wang and Qie Ellie Yin
-3. **Global Leverage Dynamics Under Currency Risk**
+2. **Global Leverage Dynamics Under Currency Risk**
     * with Zigan Wang, Qi Xu, and Qie Ellie Yin
-4. **Are Firms with Female CEOs More Environmentally Friendly?**
+3. **Are Firms with Female CEOs More Environmentally Friendly?**
     * with Sreedhari Desai, Zigan Wang, and Sandy Zhang
 
 ### Contact Information
 School of Management, Xiamen University  
-J2-415, Chengfeng Building, Siming Campus  
+J2-326, Chengfeng Building, Siming Campus  
 Xiamen, Fujian, China  
 Tel: (86) 152-2886-7756  
 Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn)  

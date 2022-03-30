@@ -9,14 +9,10 @@ Luping specializes in corporate finance, especially capital structure, payout po
 ### Teaching
 * 2022 Spring: Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">
 
-
-### 
-
-
+***
 ### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.
     * Featured by *Harvard Law School Forum on Corporate Governance*.
-
 
 ### Selected Working Papers
 1. **Global Share Repurchase over the Business Cycle**
@@ -28,7 +24,7 @@ Luping specializes in corporate finance, especially capital structure, payout po
 4. **Outsourcing ESG Risks: Global Supply Chain Response to Mandatory ESG Disclosure**
     * with Qilin Peng
 
-
+***
 ### Contact Information
 School of Management, Xiamen University  
 J2-326, Chengfeng Building, Siming Campus  

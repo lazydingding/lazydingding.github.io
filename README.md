@@ -7,8 +7,7 @@ Luping specializes in corporate finance, especially capital structure, payout po
 
 ***
 ### Teaching
-1. 2022 Spring: Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">
-   * Jupyter Notebook .ipynb: Lecture [02](https://github.com/lazydingding/lazydingding.github.io/blob/main/FDAP/FDAP_2.ipynb), 03, 04, 05
+* 2022 Spring: Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">
 
 
 ### 

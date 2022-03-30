@@ -1,6 +1,5 @@
 # Luping YU (俞路平)
 
-***
 I am currently teaching <img src="https://img.icons8.com/color/20/000000/python--v1.png"> Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">. Course materials are available upon request.
 ***
 

@@ -1,16 +1,18 @@
 # Luping YU (俞路平)
 
-Luping YU is currently an Assistant Professor of Finance at School of Management, Xiamen University. He specializes in corporate finance, especially capital structure, payout policy, corporate governance, and corporate social responsibility.
+Luping is currently an Assistant Professor of Finance at School of Management, Xiamen University. He earned a Ph.D in Finance in 2021 from University of Hong Kong. His educational background also includes a M.Sc. in Computer Science from University of Bristol, a B.E. in Electronic Information Engineering and a B.A. in Finance from University of Electronic Science and Technology of China.
 
-He earned a Ph.D in Finance in 2021 from University of Hong Kong. His educational background also includes a M.Sc. in Computer Science from University of Bristol, a B.E. in Electronic Information Engineering and a B.A. in Finance from University of Electronic Science and Technology of China.
+Luping specializes in corporate finance, especially capital structure, payout policy, corporate governance, and corporate social responsibility.
+[Curriculum Vitae](https://lazydingding.github.io/cv.pdf)
 
 ***
 ### Teaching
 Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">
+* Jupyter Notebook .ipynb: Lecture 02, 03, 04, 05
+* Slides .pdf: Lecture 01, 02, 03, 04, 05
 
 
-
-### [Curriculum Vitae](https://lazydingding.github.io/cv.pdf)
+### 
 
 
 ### Selected Publications

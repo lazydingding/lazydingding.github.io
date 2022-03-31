@@ -3,6 +3,7 @@
 Luping is currently an Assistant Professor of Finance at School of Management, Xiamen University. He earned a Ph.D in Finance in 2021 from University of Hong Kong. His educational background also includes a M.Sc. in Computer Science from University of Bristol, a B.E. in Electronic Information Engineering and a B.A. in Finance from UESTC.
 
 Luping specializes in corporate finance, especially capital structure, payout policy, corporate governance, and corporate social responsibility.
+
 [Curriculum Vitae](https://lazydingding.github.io/cv.pdf)
 
 ***
@@ -10,6 +11,7 @@ Luping specializes in corporate finance, especially capital structure, payout po
 2022 Spring: Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">
 * Lecture notes with jupyter notebook (.ipynb): [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb), 06, 07, 08, 09, 10
 * Lecture notes (.pdf): [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.pdf), [03](https://lupingyu.com/FDAP/FDAP_3.pdf), [04](https://lupingyu.com/FDAP/FDAP_4.pdf), [05](https://lupingyu.com/FDAP/FDAP_5.pdf), 06, 07, 08, 09, 10
+* 
 ***
 ### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.

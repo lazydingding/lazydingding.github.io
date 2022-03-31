@@ -15,8 +15,6 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 
 ***
 ### Research
-If you are an undergraduate or graduate student looking for some research assistant work, please email me with a brief email statement of your interests. Most of my research involve empirical work and my programming language of choice is python<img src="https://img.icons8.com/color/20/000000/python--v1.png">, but I also have uses for students with no programming experience as well.
-
 #### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.
     * Featured by *Harvard Law School Forum on Corporate Governance*.
@@ -35,9 +33,8 @@ If you are an undergraduate or graduate student looking for some research assist
 
 ***
 ### Contact Information
-School of Management, Xiamen University  
-J2-326, Chengfeng Building, Siming Campus  
-Xiamen, Fujian, China  
-Tel: (86) 152-2886-7756  
-Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn)  
-Personal Website: [www.lupingyu.com](https://lupingyu.com/)
+Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn) 
+Tel: (86) 152-2886-7756
+Office: J2-326 (嘉庚2-326)
+
+If you are an undergraduate or graduate student looking for some research assistant work, please email me with a brief email statement of your interests. Most of my research involve empirical work and my programming language of choice is python<img src="https://img.icons8.com/color/20/000000/python--v1.png">, but I also have uses for students with no programming experience as well.

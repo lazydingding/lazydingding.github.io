@@ -39,4 +39,4 @@ Office: J2-326 (嘉庚2-326)
 
 I have several projects not yet made public related to gender, ESG and big data. If you are interested in collaborating, please let me know!
 
-If you are an undergraduate or graduate student looking for some research assistant work, please email me with a brief email statement of your interests. Most of my research involve empirical work and my programming language of choice is Python, but I also have uses for students with no programming experience as well.
+If you are an undergraduate or graduate student looking for some research assistant work, please email me with a brief email statement of your interests. Most of my research involve empirical work and my programming language of choice is *Python*, but I also have uses for students with no programming experience as well.

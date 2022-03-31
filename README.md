@@ -32,7 +32,7 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
     * with Lu Hai, Qilin Peng, and Jee-Eun Shin
 
 ***
-### Contact Information
+### Contact
 Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn)  
 Tel: (86) 152-2886-7756  
 Office: J2-326 (嘉庚2-326)

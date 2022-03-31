@@ -10,8 +10,8 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 ### Teaching
 2022 Spring: Financial Data Analysis with Python
 * Lecture Notes: [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb)
-* Assignments: [HW01](https://lupingyu.com/FDAP/HW1_with_solution.ipynb), [Project01](https://lupingyu.com/FDAP/Project_1_with_solution.ipynb), 
-* Data used in assignments: [chipotle](https://lupingyu.com/FDAP/chipotle.csv), [data_banklist](https://lupingyu.com/FDAP/banklist.csv), [data_occupation](https://lupingyu.com/FDAP/occupation.csv), 
+* Assignments: [HW01](https://lupingyu.com/FDAP/HW1_with_solution.ipynb), [Project01](https://lupingyu.com/FDAP/Project_1_with_solution.ipynb)
+* Data used in assignments: [chipotle](https://lupingyu.com/FDAP/chipotle.csv), [data_banklist](https://lupingyu.com/FDAP/banklist.csv), [data_occupation](https://lupingyu.com/FDAP/occupation.csv)
 
 ***
 ### Research

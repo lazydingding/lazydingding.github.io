@@ -24,12 +24,14 @@ Luping specializes in corporate finance, especially capital structure, payout po
 #### Selected Working Papers
 1. **Global Share Repurchase over the Business Cycle**
     * Job market paper
-2. **Global Leverage Dynamics Under Currency Risk**
+2. **Do Share Repurchases Facilitate Movement Towards Target Capital Structure? International Evidence**
+    * with Zigan Wang and Qie Ellie Yin
+3. **Global Leverage Dynamics Under Currency Risk**
     * with Zigan Wang, Qi Xu, and Qie Ellie Yin
-3. **Are Firms with Female CEOs More Environmentally Friendly?**
+4. **Are Firms with Female CEOs More Environmentally Friendly?**
     * with Sreedhari Desai, Zigan Wang, and Sandy Zhang
-4. **Outsourcing ESG Risks: Global Supply Chain Response to Mandatory ESG Disclosure**
-    * with Qilin Peng
+5. **Outsourcing ESG Risks: Global Supply Chain Response to Mandatory ESG Disclosure**
+    * with Lu Hai, Qilin Peng, and Jee-Eun Shin
 
 ***
 ### Contact Information

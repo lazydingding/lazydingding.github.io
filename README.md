@@ -9,9 +9,13 @@ Luping specializes in corporate finance, especially capital structure, payout po
 ***
 ### Teaching
 2022 Spring: Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">
-* Lecture notes with jupyter notebook (.ipynb): [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb), 06, 07, 08, 09, 10
-* Lecture notes (.pdf): [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.pdf), [03](https://lupingyu.com/FDAP/FDAP_3.pdf), [04](https://lupingyu.com/FDAP/FDAP_4.pdf), [05](https://lupingyu.com/FDAP/FDAP_5.pdf), 06, 07, 08, 09, 10
-* 
+* Lecture notes with jupyter notebook (.ipynb): [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb)
+* Lecture notes (.pdf): [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.pdf), [03](https://lupingyu.com/FDAP/FDAP_3.pdf), [04](https://lupingyu.com/FDAP/FDAP_4.pdf), [05](https://lupingyu.com/FDAP/FDAP_5.pdf)
+* Assignments with jupyter notebook (.ipynb): [HW01](https://lupingyu.com/FDAP/HW1_with_solution.ipynb), [Project01](https://lupingyu.com/FDAP/Project_1_with_solution.ipynb)
+* Assignments (.pdf): [HW01](https://lupingyu.com/FDAP/HW1_with_solution.pdf), [Project01](https://lupingyu.com/FDAP/Project_1_with_solution.pdf)
+* Data: [banklist](https://lupingyu.com/FDAP/banklist.csv), [occupation](https://lupingyu.com/FDAP/occupation.csv). [chipotle](https://lupingyu.com/FDAP/chipotle.csv)
+
+
 ***
 ### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.

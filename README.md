@@ -10,17 +10,18 @@ Luping specializes in corporate finance, especially capital structure, payout po
 ### Teaching
 2022 Spring: Financial Data Analysis with Python <img src="https://img.icons8.com/color/20/000000/python--v1.png">
 * Lecture Notes: [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb)
-* Assignments: [Homework_1](https://lupingyu.com/FDAP/HW1_with_solution.ipynb), [Project_1](https://lupingyu.com/FDAP/Project_1_with_solution.ipynb), 
+* Assignments: [HW01](https://lupingyu.com/FDAP/HW1_with_solution.ipynb), [Project01](https://lupingyu.com/FDAP/Project_1_with_solution.ipynb), 
 * Data used in assignments: [chipotle](https://lupingyu.com/FDAP/chipotle.csv), [data_banklist](https://lupingyu.com/FDAP/banklist.csv), [data_occupation](https://lupingyu.com/FDAP/occupation.csv), 
 
 
 
 ***
-### Selected Publications
+### Research
+#### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.
     * Featured by *Harvard Law School Forum on Corporate Governance*.
 
-### Selected Working Papers
+#### Selected Working Papers
 1. **Global Share Repurchase over the Business Cycle**
     * Job market paper
 2. **Global Leverage Dynamics Under Currency Risk**

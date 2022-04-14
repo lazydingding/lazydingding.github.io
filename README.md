@@ -9,9 +9,9 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 ***
 ### Teaching
 2022 Spring: **Financial Data Analysis with Python** <img src="https://img.icons8.com/color/20/000000/python--v1.png">
-* Lecture Notes: [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb)
+* Lecture Notes: [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb), [05](https://lupingyu.com/FDAP/FDAP_6.ipynb)
 * Assignments: [HW01](https://lupingyu.com/FDAP/HW1_with_solution.ipynb), [Project01](https://lupingyu.com/FDAP/Project_1_with_solution.ipynb)
-* Data used in assignments: [chipotle](https://lupingyu.com/FDAP/chipotle.csv), [banklist](https://lupingyu.com/FDAP/banklist.csv), [occupation](https://lupingyu.com/FDAP/occupation.csv)
+* Data used in assignments: [chipotle](https://lupingyu.com/FDAP/chipotle.csv), [banklist](https://lupingyu.com/FDAP/banklist.csv), [occupation](https://lupingyu.com/FDAP/occupation.csv), [macrodata](https://lupingyu.com/FDAP/macrodata.csv)
 
 ***
 ### Research

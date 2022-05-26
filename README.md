@@ -15,7 +15,6 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 
 ***
 ### Research
-#### Selected Publications
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.
     * Featured by *Harvard Law School Forum on Corporate Governance*.
 

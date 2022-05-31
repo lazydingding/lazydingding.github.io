@@ -9,9 +9,9 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 ***
 ### Teaching
 2022 Spring: **Financial Data Analysis with Python** <img src="https://img.icons8.com/color/20/000000/python--v1.png">
-* Lecture Notes: [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb), [06](https://lupingyu.com/FDAP/FDAP_6.ipynb), [07](https://lupingyu.com/FDAP/FDAP_7.ipynb), [08](https://lupingyu.com/FDAP/Practice_1.ipynb), [09](https://lupingyu.com/FDAP/Practice_2.ipynb)
+* Lecture Notes: [01](https://lupingyu.com/FDAP/FDAP_Lecture_1.pdf), [02](https://lupingyu.com/FDAP/FDAP_2.ipynb), [03](https://lupingyu.com/FDAP/FDAP_3.ipynb), [04](https://lupingyu.com/FDAP/FDAP_4.ipynb), [05](https://lupingyu.com/FDAP/FDAP_5.ipynb), [06](https://lupingyu.com/FDAP/FDAP_6.ipynb), [07](https://lupingyu.com/FDAP/FDAP_7.ipynb), [08](https://lupingyu.com/FDAP/Practice_1.ipynb), [09](https://lupingyu.com/FDAP/Practice_2.ipynb), [10](https://lupingyu.com/FDAP/FDAP_10.pdf)
 * Assignments: [HW01](https://lupingyu.com/FDAP/HW1_with_solution.ipynb), [HW02](https://lupingyu.com/FDAP/HW2_with_solution.ipynb), [HW03](https://lupingyu.com/FDAP/HW3_with_solution.ipynb), [Project01](https://lupingyu.com/FDAP/Project_1_with_solution.ipynb), [Project02](https://lupingyu.com/FDAP/Project_2_with_solution.ipynb)
-* Data used in assignments: [appl](https://lupingyu.com/FDAP/appl_1980_2014.csv), [banklist](https://lupingyu.com/FDAP/banklist.csv), [chipotle](https://lupingyu.com/FDAP/chipotle.csv), [macrodata](https://lupingyu.com/FDAP/macrodata.csv), [occupation](https://lupingyu.com/FDAP/occupation.csv), [stock_px](https://lupingyu.com/FDAP/stock_px_2.csv), [tips](https://lupingyu.com/FDAP/tips.csv)
+* Data used in assignments: [appl](https://lupingyu.com/FDAP/appl_1980_2014.csv), [banklist](https://lupingyu.com/FDAP/banklist.csv), [chipotle](https://lupingyu.com/FDAP/chipotle.csv), [fundamentals](https://lupingyu.com/FDAP/fundamentals.csv), [macrodata](https://lupingyu.com/FDAP/macrodata.csv), [occupation](https://lupingyu.com/FDAP/occupation.csv), [stock_px](https://lupingyu.com/FDAP/stock_px_2.csv), [tips](https://lupingyu.com/FDAP/tips.csv)
 
 ***
 ### Research

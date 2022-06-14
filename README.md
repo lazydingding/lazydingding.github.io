@@ -22,15 +22,15 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
     * Featured by *Harvard Law School Forum on Corporate Governance* [[link](https://corpgov.law.harvard.edu/2020/12/09/real-effects-of-share-repurchases-legalization-on-corporate-behaviors/)]
 
 #### Selected Working Papers
-1. **Global Share Repurchase over the Business Cycle**
+1. **Global share repurchase over the business cycle**
     * Job market paper
-2. **Do Share Repurchases Facilitate Movement Towards Target Capital Structure? International Evidence**
+2. **Do share repurchases facilitate movement towards target capital structure? International evidence**
     * with Zigan Wang and Qie Ellie Yin
-3. **Are Firms with Female CEOs More Environmentally Friendly?**
+3. **Are firms with female CEOs more environmentally friendly?**
     * with Sreedhari Desai, Zigan Wang, and Haotian Zhang
-4. **Gender Discrimination and Firm Risk-Taking**
+4. **Gender discrimination and firm risk-taking**
     * with Sreedhari Desai
-5. **Out of Sight, Out of Mind: Global Supply Chain Response to Mandatory ESG Disclosure**
+5. **Out of sight, out of mind: Global supply chain response to mandatory ESG disclosure**
     * with Lu Hai, Qilin Peng, and Jee-Eun Shin
 
 ***

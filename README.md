@@ -18,6 +18,18 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 1. [Real effects of share repurchases legalization on corporate behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X) (with Zigan Wang and Qie Ellie Yin). ***Journal of Financial Economics***, 140(1), 197-219.
     * Featured by *Harvard Law School Forum on Corporate Governance*.
 
+#### Selected Working Papers
+1. **Global Share Repurchase over the Business Cycle**
+    * Job market paper
+2. **Do Share Repurchases Facilitate Movement Towards Target Capital Structure? International Evidence**
+    * with Zigan Wang and Qie Ellie Yin
+3. **Are Firms with Female CEOs More Environmentally Friendly?**
+    * with Sreedhari Desai, Zigan Wang, and Haotian Zhang
+4. **Gender Discrimination and Firm Risk-Taking**
+    * with Sreedhari Desai
+5. **Out of Sight, Out of Mind: Global Supply Chain Response to Mandatory ESG Disclosure**
+    * with Lu Hai, Qilin Peng, and Jee-Eun Shin
+
 ***
 ### Contact
 Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn)  

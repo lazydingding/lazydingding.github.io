@@ -8,7 +8,7 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 
 ***
 ### Teaching
-2022 Fall: **FinTech** <img src="https://cdn-icons.flaticon.com/png/512/4538/premium/4538154.png">
+2022 Fall: **FinTech** <img src="https://cdn2.vectorstock.com/i/1000x1000/80/11/fintech-icon-simple-element-vector-27078011.jpg">
 * Lecture Notes: coming soon
 
 2022 Spring: **Financial Data Analysis with Python** <img src="https://img.icons8.com/color/20/000000/python--v1.png">

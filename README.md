@@ -33,6 +33,9 @@ Luping is currently an Assistant Professor of Finance at School of Management, X
 5. **Out of sight, out of mind: Global supply chain response to mandatory ESG disclosure**
     * with Lu Hai, Qilin Peng, and Jee-Eun Shin
 
+*I have several projects not yet made public. If you are interested in collaborating, please let me know!*
+
+
 ***
 ### Contact
 Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn)  

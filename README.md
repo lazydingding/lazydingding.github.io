@@ -1,5 +1,8 @@
 # Luping YU (俞路平)
 
+<div  align="center"> 
+<img src="https://lazydingding.github.io/IMG_0246.JPG" width = "328.3" height = "492.5">
+</div>
 Luping is currently an Assistant Professor of Finance at Xiamen University. He earned a Ph.D in Finance from University of Hong Kong. His educational background also includes a M.Sc. in Computer Science from University of Bristol, a B.E. in Electronic Information Engineering and a B.A. in Finance from UESTC.
 
 **Research Interests**: Empirical Corporate Finance, Payout Policy, Corporate Governance, Gender, ESG

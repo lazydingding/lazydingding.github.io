@@ -41,6 +41,6 @@ Luping is currently an Assistant Professor of Finance at Xiamen University. He e
 Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn)  
 Tel: (86) 152-2886-7756  
 Office: J2-326 (嘉庚2-326)  
-[XMU Homepage](http://smr.xmu.edu.cn/TeacherWeb/Teacher_en_Details.aspx?User_ID=914)
+[XMU homepage](http://smr.xmu.edu.cn/TeacherWeb/Teacher_en_Details.aspx?User_ID=914)
 
 If you are an undergraduate or graduate student looking for some research assistant work, please email me with a brief email statement of your interests. Most of my research involve empirical work and my programming language of choice is *Python*, but I also have uses for students with no programming experience as well.

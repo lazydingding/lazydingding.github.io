@@ -38,8 +38,8 @@ Luping is currently an Assistant Professor of Finance at Xiamen University. He e
 
 ***
 ### Contact
+[Chinese Homepage](https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details.aspx?User_ID=914)  
 Email: [lupingyu@xmu.edu.cn](mailto:lupingyu@xmu.edu.cn)  
-Chinese Homepage: [[link](https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details.aspx?User_ID=914)]  
 Tel: (86) 152-2886-7756  
 Office: J2-326 (嘉庚2-326)
 

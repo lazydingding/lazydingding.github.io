@@ -23,7 +23,7 @@ Luping is currently an Assistant Professor of Finance at Xiamen University. He e
 
 #### Selected Working Papers
 1. **Global share repurchase over the business cycle**
-    * Job market paper
+    * with Zigan Wang and Qie Ellie Yin
 2. **Do share repurchases facilitate movement towards target capital structure? International evidence**
     * with Zigan Wang and Qie Ellie Yin
 3. **Are firms with female CEOs more environmentally friendly?**

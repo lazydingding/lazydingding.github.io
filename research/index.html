@@ -1,336 +1,126 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-    <meta name="theme-color" content="#222">
-    <meta name="generator" content="Hexo 4.2.1">
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/fish.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/fish.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/fish.png">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
-    <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
-    <script id="hexo-configurations">var NexT = window.NexT || {};
-      var CONFIG = {
-        "hostname": "lazydingding.github.io",
-        "root": "/",
-        "scheme": "Mist",
-        "version": "7.8.0",
-        "exturl": false,
-        "sidebar": {
-          "position": "left",
-          "display": "always",
-          "padding": 18,
-          "offset": 12,
-          "onmobile": false
-        },
-        "copycode": {
-          "enable": false,
-          "show_result": false,
-          "style": null
-        },
-        "back2top": {
-          "enable": true,
-          "sidebar": true,
-          "scrollpercent": true
-        },
-        "bookmark": {
-          "enable": false,
-          "color": "#222",
-          "save": "auto"
-        },
-        "fancybox": false,
-        "mediumzoom": false,
-        "lazyload": false,
-        "pangu": false,
-        "comments": {
-          "style": "tabs",
-          "active": null,
-          "storage": true,
-          "lazyload": false,
-          "nav": null
-        },
-        "algolia": {
-          "hits": {
-            "per_page": 10
-          },
-          "labels": {
-            "input_placeholder": "Search for Posts",
-            "hits_empty": "We didn't find any results for the search: ${query}",
-            "hits_stats": "${hits} results found in ${time} ms"
-          }
-        },
-        "localsearch": {
-          "enable": false,
-          "trigger": "auto",
-          "top_n_per_article": 1,
-          "unescape": false,
-          "preload": false
-        },
-        "motion": {
-          "enable": true,
-          "async": false,
-          "transition": {
-            "post_block": "fadeIn",
-            "post_header": "slideDownIn",
-            "post_body": "slideDownIn",
-            "coll_header": "slideLeftIn",
-            "sidebar": "slideUpIn"
-          }
-        }
-      };</script>
-    <link rel="canonical" href="https://lupingyu.com/">
-    <script id="page-configurations">// https://hexo.io/docs/variables.html
-      CONFIG.page = {
-        sidebar: "",
-        isHome: false,
-        isPost: false,
-        lang: 'en'
-      };</script>
-    <title>Luping Yu | site</title>
-    <noscript>
-      <style>.use-motion .brand, .use-motion .menu-item, .sidebar-inner, .use-motion .post-block, .use-motion .pagination, .use-motion .comments, .use-motion .post-header, .use-motion .post-body, .use-motion .collection-header { opacity: initial; } .use-motion .site-title, .use-motion .site-subtitle { opacity: initial; top: initial; } .use-motion .logo-line-before i { left: initial; } .use-motion .logo-line-after i { right: initial; }</style></noscript>
-  </head>
-  
-  <body itemscope itemtype="http://schema.org/WebPage">
-    <div class="container use-motion">
-      <div class="headband"></div>
-      <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-        <div class="header-inner">
-          <div class="site-brand-container">
-            <div class="site-nav-toggle">
-              <div class="toggle" aria-label="Toggle navigation bar">
-                <span class="toggle-line toggle-line-first"></span>
-                <span class="toggle-line toggle-line-middle"></span>
-                <span class="toggle-line toggle-line-last"></span>
-              </div>
-            </div>
-            <div class="site-meta">
-              <a href="/" class="brand" rel="start">
-                <span class="logo-line-before">
-                  <i>
-                  </i>
-                </span>
-                <h1 class="site-title">Luping Yu</h1>
-                <span class="logo-line-after">
-                  <i>
-                  </i>
-                </span>
-              </a>
-              <p class="site-subtitle" itemprop="description">What does not kill you makes you stronger</p></div>
-            <div class="site-nav-right">
-              <div class="toggle popup-trigger"></div>
-            </div>
-          </div>
-          <nav class="site-nav">
-            <ul id="menu" class="main-menu menu">
-              <li class="menu-item menu-item-bio">
-                <a href="/" rel="section">
-                  <i class="fa fa-user fa-fw"></i>Bio</a>
-              </li>
-              <li class="menu-item menu-item-research">
-                <a href="/research/" rel="section">
-                  <i class="fa fa-tasks fa-fw"></i>Research</a>
-              </li>
-              <li class="menu-item menu-item-research">
-                <a href="/presentation/" rel="section">
-                  <i class="fa fa-bullhorn fa-fw"></i>Invited Presentation</a>
-              </li>
-              <li class="menu-item menu-item-teaching">
-                <a href="/teaching/" rel="section">
-                  <i class="fa fa-podcast fa-fw"></i>Teaching</a>
-              </li>
-            </ul>
-          </nav>
-        </div>
-      </header>
-      <div class="reading-progress-bar"></div>
-      <a href="https://github.com/lazydingding" class="github-corner" title="Follow me on GitHub" aria-label="Follow me on GitHub" rel="noopener" target="_blank">
-        <svg width="80" height="80" viewBox="0 0 250 250" aria-hidden="true">
-          <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
-          <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
-          <path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path>
-        </svg>
-      </a>
-      <main class="main">
-        <div class="main-inner">
-          <div class="content-wrap">
-            <div class="content page posts-expand">
-              <div class="post-block" lang="en">
-                <div class="post-body">
-                  <h3 id="Publication">
-                    <a href="#Publication" class="headerlink" title="Publication"></a>Publications</h3>
-                  <ul>
-                    <li>
-                      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X"><strong>Real effects of share repurchases legalization on corporate behaviors</strong></a> (with Zigan Wang and Qie Yin)
-                      <ul>
-                        <li style="font-size:0.9em; "><strong><i>Journal of Financial Economics</i></strong> (2021)
-                          <ul><li style="font-size:0.9em; ">Featured by Harvard Law School Forum on Corporate Governance</li></ul>
-                        </li>
-                      </ul>
-                    </li>
-                    <li>
-                      <a href="https://www.sciencedirect.com/science/article/pii/S0927539824000331"><strong>Do share repurchases facilitate movement toward target capital structure? International evidence</strong></a> (with Zigan Wang and Qie Yin)
-                      <ul>
-                        <li style="font-size:0.9em; "><i>Journal of Empirical Finance</i> (2024)
-                        </li>
-                      </ul>
-                    </li>
-                    <br />
-                  </ul>
-                  <h3 id="Working Papers">
-                    <a href="#Working Papers" class="headerlink" title="Working Papers"></a>Working Papers in Revision</h3>
-                  <ol>
-                    <li>
-                      <strong>Migration of global supply chains: A real effect of mandatory ESG disclosure</strong>
-                      <ul>
-                        <li style="font-size:0.8em; ">with Hai Lu (Toronto), Qilin Peng (UCD), and Jee-Eun Shin (Toronto)</li>
-                        <li style="font-size:0.8em; ">Conferences: Rotman Accounting Research Conference 2022, Paris December Finance Meeting 2022, Hawaii Accounting Research Conference (HARC) 2023, Management Accounting Section Midyear Meeting (MAS) 2023, CUHK Accounting Research Conference 2023, and MIT Asia Conference in Accounting 2023</li></ul>
-                    </li>
-                    <li>
-                      <strong>ESG considerations in acquisitions and divestitures: Corporate responses to mandatory ESG disclosure</strong>
-                      <ul>
-                        <li style="font-size:0.8em; ">with Tong Li (Xiamen) and Qilin Peng (UCD)</li>
-                        <li style="font-size:0.8em; "><i>Best Paper Award</i> - 31st PBFEAM Conference</li>
-                        <li style="font-size:0.8em; "><i>Semifinalist for Best Paper Award</i> - Financial Management Association Conference (FMA) 2023</li>
-                        <li style="font-size:0.8em; ">Conferences:  CUHK-XMU Business & Management Seminar 2023, Chinese Economists Society Conference (CES) 2023, Asian Finance Association Conference (AsianFA) 2023, Asian Meeting of the Econometric Society (AMES) 2023, and AMJ Paper Development Workshop 2023</li></ul>   
-                    </li>
-                    <br />
-                  </ol>
-                  <h3 id="More">
-                    <a href="#More" class="headerlink" title="More"></a>More About My Research</h3>
-                  <ul>
-                    <li>I serve as an ad-hoc referee for accounting and finance journals (e.g. <i>Contemporary Accounting Research</i>, <i>Review of Finance</i>).</li>
-                    <li>I have several projects not yet made public. If you are interested in collaborating, please let me know!</li></ul>
-                    </div>
-              </div>
-            </div>
-            <script>window.addEventListener('tabs:register', () = >{
-                let {
-                  activeClass
-                } = CONFIG.comments;
-                if (CONFIG.comments.storage) {
-                  activeClass = localStorage.getItem('comments_active') || activeClass;
-                }
-                if (activeClass) {
-                  let activeTab = document.querySelector(`a[href = "#comment-${activeClass}"]`);
-                  if (activeTab) {
-                    activeTab.click();
-                  }
-                }
-              });
-              if (CONFIG.comments.storage) {
-                window.addEventListener('tabs:click', event = >{
-                  if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-                  let commentClass = event.target.classList[1];
-                  localStorage.setItem('comments_active', commentClass);
-                });
-              }</script>
-          </div>
-          <div class="toggle sidebar-toggle">
-            <span class="toggle-line toggle-line-first"></span>
-            <span class="toggle-line toggle-line-middle"></span>
-            <span class="toggle-line toggle-line-last"></span>
-          </div>
-          <aside class="sidebar">
-            <div class="sidebar-inner">
-              <ul class="sidebar-nav motion-element">
-                <li class="sidebar-nav-toc">Table of Contents</li>
-                <li class="sidebar-nav-overview">Overview</li></ul>
-              <!--noindex-->
-              <div class="post-toc-wrap sidebar-panel"></div>
-              <!--/noindex-->
-              <div class="site-overview-wrap sidebar-panel">
-                <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-                  <img class="site-author-image" itemprop="image" alt="Luping Yu (俞路平)" src="/images/YLP.jpg">
-                  <p class="site-author-name" itemprop="name">Luping Yu</p>
-                  <div class="site-description" itemprop="description">Chinese Name: 俞路平</div></div>
-                <div class="site-state-wrap motion-element">
-                  <nav class="site-state">
-                    <div class="site-state-item site-state-posts">
-                      <a href="/research/">
-                        <span class="site-state-item-count">2</span>
-                        <span class="site-state-item-name">publications</span></a>
-                    </div>
-                    <div class="site-state-item site-state-categories">
-                      <a href="/presentation/">
-                        <span class="site-state-item-count">26</span>
-                        <span class="site-state-item-name">presentations</span></a>
-                    </div>
-                    <div class="site-state-item site-state-tags">
-                      <a href="/teaching/">
-                        <span class="site-state-item-count">4</span>
-                        <span class="site-state-item-name">courses</span></a>
-                    </div>
-                  </nav>
-                </div>
-                <div class="links-of-author motion-element">
-                  <span class="links-of-author-item">
-                    <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3396834" title="SSRN" rel="noopener" target="_blank">SSRN</a></span>
-                  <span class="links-of-author-item">
-                    <a href="mailto:lupingyu@hotmail.com" title="E-Mail → mailto:lupingyu@hotmail.com" rel="noopener" target="_blank">
-                      <i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-                  </span>
-                </div>
-                <div class="links-of-blogroll motion-element">
-                  <div class="links-of-blogroll-title">
-                    <i class="fa fa-link fa-fw"></i>Links</div>
-                  <ul class="links-of-blogroll-list">
-                    <li class="links-of-blogroll-item">
-                      <a href="https://fba.um.edu.mo/faculty/lupingyu/" rel="noopener" target="_blank">UM Homepage</a></li>
-                    <li class="links-of-blogroll-item">
-                      <a href="/cv/luping_cv.pdf" rel="noopener" target="_blank">Curriculum Vitae</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="back-to-top motion-element">
-                <i class="fa fa-arrow-up"></i>
-                <span>0%</span></div>
-            </div>
-          </aside>
-          <div id="sidebar-dimmer"></div>
-        </div>
-      </main>
-      <footer class="footer">
-        <div class="footer-inner">
-          <div class="copyright">&copy;
-            <span itemprop="copyrightYear">2022</span>
-            <span class="with-love">
-              <i class="snowflake-o"></i>
-            </span>
-            <span class="author" itemprop="copyrightHolder">Luping Yu</span></div>
-          <div class="busuanzi-count">
-            <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-user"></i>
-              </span>
-              <span class="site-uv" title="Total Visitors">
-                <span id="busuanzi_value_site_uv"></span>
-              </span>
-            </span>
-            <span class="post-meta-divider">|</span>
-            <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="site-pv" title="Total Views">
-                <span id="busuanzi_value_site_pv"></span>
-              </span>
-            </span>
-          </div>
-        </div>
-      </footer>
-    </div>
-    <script src="/lib/anime.min.js"></script>
-    <script src="/lib/velocity/velocity.min.js"></script>
-    <script src="/lib/velocity/velocity.ui.min.js"></script>
-    <script src="/js/utils.js"></script>
-    <script src="/js/motion.js"></script>
-    <script src="/js/schemes/muse.js"></script>
-    <script src="/js/next-boot.js"></script>
-  </body>
-
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Publications and working papers by Luping Yu. Corporate finance, financial accounting, ESG, and FinTech.">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="canonical" href="https://lupingyu.com/research/">
+  <link rel="icon" type="image/svg+xml" sizes="any" href="../favicon.svg">
+  <title>Research · Luping Yu</title>
+  <!-- A plain HTML page. Styles are included here; no JavaScript or build step. -->
+  <style>
+    html { background: #fff; color: #111; }
+    body {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 0 20px;
+      font: 16px/1.5 "Times New Roman", Times, serif;
+      overflow-wrap: break-word;
+    }
+    a { color: #0000ee; }
+    a:visited { color: #551a8b; }
+    a:hover, summary:hover { text-decoration-thickness: 2px; }
+    a:focus-visible, summary:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+    nav ul { display: flex; flex-wrap: wrap; gap: 4px 10px; list-style: none; padding: 0; margin: 0 0 18px; }
+    nav li { margin: 0; }
+    nav [aria-current="page"] { font-weight: bold; }
+    h1 { margin: 0 0 12px; font-size: 32px; line-height: 1.25; }
+    h1 span { display: inline-block; font-size: .72em; font-weight: normal; }
+    h2 { margin: 28px 0 12px; font-size: 24px; line-height: 1.3; }
+    p { margin: 10px 0; }
+    ul, ol { padding-left: 24px; }
+    li { margin: 5px 0; }
+    .profile-links { margin-top: 24px; }
+    .papers { margin: 8px 0; }
+    .papers > li { margin-bottom: 16px; padding-left: 2px; }
+    .paper-meta, .award { margin: 3px 0; }
+    .paper-meta, .note, .years { color: #444; }
+    .note, .award { font-size: 15px; }
+    .award strong { font-weight: normal; }
+    details { margin: 10px 0; }
+    summary { width: fit-content; max-width: 100%; cursor: pointer; }
+    summary::marker { font-size: .8em; }
+    .papers details { margin: 3px 0; }
+    .papers summary { color: #444; font-size: 15px; }
+    .education li { margin: 8px 0; }
+    .education strong { font-weight: normal; }
+    .talks time { color: #444; font-variant-numeric: tabular-nums; }
+    footer { margin-top: 36px; padding-top: 12px; border-top: 1px solid #ddd; font-size: 14px; }
+    footer > p { margin: 5px 0; }
+    footer details { margin: 10px 0 0; }
+    footer details p { margin: 10px 0; }
+    h2, details[id] { scroll-margin-top: 20px; }
+    .skip-link { position: absolute; left: -10000px; }
+    .skip-link:focus { top: 0; left: 20px; background: #fff; padding: 5px; }
+    @media (max-width: 600px) {
+      body { margin: 20px auto; padding: 0 18px; }
+      nav a { display: inline-block; padding: 3px 0; }
+    }
+    @media print {
+      body { max-width: none; margin: 0; padding: 0; font-size: 11pt; }
+      nav, .skip-link { display: none; }
+      a, a:visited { color: #000; }
+      h1, h2 { break-after: avoid; }
+      .papers > li { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <nav aria-label="Main navigation">
+    <ul>
+      <li><a href="../index.html">home</a></li>
+      <li><a href="../research/index.html" aria-current="page">research</a></li>
+      <li><a href="../presentation/index.html">presentations</a></li>
+    </ul>
+  </nav>
+  <header>
+    <h1>research</h1>
+  </header>
+  <main id="main">
+      <h2 id="Publication">publications</h2>
+      <ol class="papers">
+        <li>
+          <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0927539824000331">Do share repurchases facilitate movement toward target capital structure? International evidence</a>
+          <p class="paper-meta">With Zigan Wang and Qie Yin. <em>Journal of Empirical Finance</em>, 2024.</p>
+        </li>
+        <li>
+          <a class="paper-title" href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X2030283X">Real effects of share repurchases legalization on corporate behaviors</a>
+          <p class="paper-meta">With Zigan Wang and Qie Yin. <em>Journal of Financial Economics</em>, 2021.</p>
+          <p class="paper-meta note">Featured by Harvard Law School Forum on Corporate Governance.</p>
+        </li>
+      </ol>
+      <h2 id="working-papers">working papers in revision</h2>
+      <ol class="papers">
+        <li>
+          <span class="paper-title">Migration of global supply chains: A real effect of mandatory ESG disclosure</span>
+          <p class="paper-meta">With Hai Lu (Toronto), Qilin Peng (UCD), and Jee-Eun Shin (Toronto).</p>
+          <details>
+            <summary>Conference presentations</summary>
+            <p class="note">Rotman Accounting Research Conference 2022; Paris December Finance Meeting 2022; Hawaii Accounting Research Conference (HARC) 2023; Management Accounting Section Midyear Meeting (MAS) 2023; CUHK Accounting Research Conference 2023; MIT Asia Conference in Accounting 2023.</p>
+          </details>
+        </li>
+        <li>
+          <span class="paper-title">ESG considerations in acquisitions and divestitures: Corporate responses to mandatory ESG disclosure</span>
+          <p class="paper-meta">With Tong Li (Xiamen) and Qilin Peng (UCD).</p>
+          <p class="award"><strong>Best Paper Award</strong> · 31st PBFEAM Conference<br><strong>Semifinalist for Best Paper Award</strong> · Financial Management Association Conference (FMA) 2023</p>
+          <details>
+            <summary>Conference presentations</summary>
+            <p class="note">CUHK-XMU Business &amp; Management Seminar 2023; Chinese Economists Society Conference (CES) 2023; Asian Finance Association Conference (AsianFA) 2023; Asian Meeting of the Econometric Society (AMES) 2023; AMJ Paper Development Workshop 2023.</p>
+          </details>
+        </li>
+      </ol>
+      <p>I serve as an ad-hoc referee for accounting and finance journals, including <em>Contemporary Accounting Research</em> and <em>Review of Finance</em>.</p>
+      <p>I also have several projects not yet made public.</p>
+  </main>
+  <footer>
+    <p>© Luping Yu</p>
+    <details>
+      <summary>Why does this site look so boring?</summary>
+      <p>The internet has become a <em>bloated mess</em>. Massive JavaScript libraries. Countless client-side queries. Overly complex frontend frameworks. But we can make a difference - no matter how small it may seem.</p>
+      <p>Simplicity and speed considerations dictated the construction of <strong>lupingyu.com</strong></p>
+    </details>
+  </footer>
+</body>
 </html>

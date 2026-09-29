@@ -8,7 +8,7 @@
   <link rel="canonical" href="https://lupingyu.com/">
   <link rel="icon" type="image/svg+xml" sizes="any" href="favicon.svg">
   <title>Luping Yu</title>
-  <!-- A plain HTML page. Styles are included here; no JavaScript or build step. -->
+  <!-- A plain HTML page with inline styles and an asynchronous visitor counter; no build step. -->
   <style>
     html { background: #fff; color: #111; }
     body {
@@ -32,6 +32,7 @@
     ul, ol { padding-left: 24px; }
     li { margin: 5px 0; }
     .profile-links { margin-top: 24px; }
+    .site-stats { display: flex; flex-wrap: wrap; gap: 0 14px; color: #444; font-size: 14px; }
     .papers { margin: 8px 0; }
     .papers > li { margin-bottom: 16px; padding-left: 2px; }
     .paper-meta, .award { margin: 3px 0; }
@@ -89,6 +90,10 @@
       </ul>
       </details>
       <p class="profile-links"><a href="cv/luping_cv.pdf">CV</a> · <a href="https://fba.um.edu.mo/faculty/lupingyu/">University of Macau</a> · <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3396834">SSRN</a></p>
+      <p class="site-stats">
+        <span id="busuanzi_container_site_uv" style="display: none;">Visitors: <span id="busuanzi_value_site_uv"></span></span>
+        <span id="busuanzi_container_site_pv" style="display: none;">Views: <span id="busuanzi_value_site_pv"></span></span>
+      </p>
   </main>
   <footer>
     <p>© Luping Yu</p>
@@ -98,5 +103,6 @@
       <p>Simplicity and speed considerations dictated the construction of <strong>lupingyu.com</strong></p>
     </details>
   </footer>
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </body>
 </html>
